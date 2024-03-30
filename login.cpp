@@ -4,9 +4,9 @@ using namespace std;
 int main(){
   string pass;
   string pwd="master";
-  cout<<"\n\n\n         user:    masterplan"<<endl;
+  cout<<"\n\n\n         user:    hasan-rooted"<<endl;
   do{
-      cout<<"         Password:: ";
+      cout<<"         Password:root ";
       cin>>pass;
       if(pass==pwd){
           cout<<" \n           welcome masterplan!!!"<<endl;
