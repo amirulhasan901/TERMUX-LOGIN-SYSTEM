@@ -6,7 +6,7 @@ int main(){
   string pwd="master";
   cout<<"\n\n\n         user:    masterplan"<<endl;
   do{
-      cout<<"         Password:: ";
+      cout<<"         Password:root: ";
       cin>>pass;
       if(pass==pwd){
           cout<<" \n           welcome masterplan!!!"<<endl;
